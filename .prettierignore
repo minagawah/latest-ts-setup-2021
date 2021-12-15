@@ -1,0 +1,10 @@
+.git*
+LICENSE*
+/node_modules
+.prettierignore
+/public
+*.png
+package-lock.json
+stats.json
+*.log
+*.lock
